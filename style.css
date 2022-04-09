@@ -1,0 +1,26 @@
+﻿
+body {
+    background-color: black;
+    color: white;
+    font-size: 10pt;
+    font-family: Monospace;
+    white-space: pre;
+}
+
+input {
+    background-color: black;
+    color: white;
+    padding: 0px;
+    align-self: left;
+    min-width: 0px;
+    border: none;
+    outline: none;
+}
+
+.float-child {
+    float: left;
+}
+
+.term {
+    visibility: hidden;
+}
