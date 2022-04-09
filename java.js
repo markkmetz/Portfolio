@@ -64,7 +64,7 @@ function Console_Login() {
     log.append(' ______   ______   ______   ______   ______   ______    ', mkbr());
     log.append('|______| |______| |______| |______| |______| |______|   ', mkbr());
 
-    log.append(mkbr(), 'This is an interactive portfolio!');
+    log.append(mkbr(), 'This is an interactive portfolio! yeet');
     log.append(mkbr(), "Type in ", color("/help", "yellow"), " for commands");
 
 
